@@ -1,0 +1,78 @@
+<template>
+  <div class="page flex-col">
+  <div class="box_1 flex-col">
+    <div >
+      <ul class="tab-list">
+        <li v-for="(tab, index) in tabs" :key="index" @click="selectTab(index)" :class="{ active: selectedIndex === index }">
+          {{ tab.title }}
+        </li>
+      </ul>
+      <div class="tab-content">
+        <div v-if="selectedIndex === 0">
+          <!-- 密码登录 -->
+          <form>
+            <label for="username">用户名：</label>
+            <input type="text" id="username" name="username" required><br>
+            <label for="password">密码：</label>
+            <input type="password" id="password" name="password" required><br>
+            <button type="">登录</button>
+          </form>
+        </div>
+        <div v-else>
+          <!-- 验证码登录 -->
+          <form>
+            <label for="phone">手机号：</label>
+            <input type="tel" id="phone" name="phone" required><br>
+            <label for="code">验证码：</label>
+            <input type="text" id="code" name="code" required><br>
+            <button type="primary">登录</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+    </div>
+  </template>
+  
+  <script>
+  export default {
+    data() {
+      return {
+        tabs: [
+          { title: '密码登录' },
+          { title: '验证码登录' }
+        ],
+        selectedIndex: 0
+      }
+    },
+    methods: {
+      selectTab(index) {
+        this.selectedIndex = index;
+      }
+    }
+  }
+  </script>
+  
+  <style scoped>
+  
+  .tab-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .tab-list li {
+    padding: 10px;
+    cursor: pointer;
+  }
+  .tab-list li.active {
+    font-weight: bold;
+  }
+  .tab-content {
+    flex: 1;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  </style>
+  <style scoped lang="css" src="./assets/index.css" />

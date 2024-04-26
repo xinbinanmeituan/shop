@@ -1,0 +1,131 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 756px;
+  height: 8918px;
+  overflow: hidden;
+}
+
+.section_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 3324px;
+  height: 8999px;
+}
+
+.box_1 {
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.09);
+  background-color: rgba(255, 255, 255, 1);
+  width: 750px;
+  height: 86px;
+}
+
+.label_1 {
+  width: 24px;
+  height: 40px;
+  margin: 21px 0 0 55px;
+}
+
+.text_1 {
+  width: 141px;
+  height: 34px;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 36px;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 36px;
+  margin: 24px 305px 0 225px;
+}
+
+.image_1 {
+  width: 738px;
+  height: 442px;
+  margin: -1px 0 0 3px;
+}
+
+.box_2 {
+  position: relative;
+  width: 3324px;
+  height: 177px;
+}
+
+.text_2 {
+  width: 269px;
+  height: 35px;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 36px;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 36px;
+  margin: 105px 0 0 243px;
+}
+
+.text-wrapper_1 {
+  box-shadow: 0px 3px 0px 0px rgba(248, 75, 24, 1);
+  background-color: rgba(255, 240, 182, 1);
+  border-radius: 40px 40px 0px 0px;
+  height: 80px;
+  width: 200px;
+  position: absolute;
+  left: 555px;
+  top: -1px;
+}
+
+.text_3 {
+  width: 140px;
+  height: 34px;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 36px;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 36px;
+  margin: 23px 0 0 25px;
+}
+
+.image_2 {
+  width: 619px;
+  height: 618px;
+  margin: -1px 0 0 66px;
+}
+
+.box_3 {
+  background-color: rgba(228, 57, 59, 1);
+  border-radius: 5px;
+  width: 692px;
+  height: 60px;
+  margin: 31px 0 0 32px;
+}
+
+.label_2 {
+  width: 30px;
+  height: 26px;
+  margin: 17px 0 0 62px;
+}
+
+.text_4 {
+  width: 387px;
+  height: 35px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 36px;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 36px;
+  margin: 12px 164px 0 49px;
+}
+
+.image_3 {
+  width: 750px;
+  height: 7463px;
+  margin: 43px 0 81px 3px;
+}

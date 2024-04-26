@@ -1,0 +1,135 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 20.16rem;
+  height: 237.814rem;
+  overflow: hidden;
+}
+
+.section_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 88.64rem;
+  height: 239.974rem;
+}
+
+.box_1 {
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.09);
+  background-color: rgba(255, 255, 255, 1);
+  width: 20rem;
+  height: 2.294rem;
+}
+
+.label_1 {
+  width: 0.64rem;
+  height: 1.067rem;
+  margin: 0.56rem 0 0 1.467rem;
+}
+
+.text_1 {
+  width: 3.76rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 0.96rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 0.64rem 8.134rem 0 6rem;
+}
+
+.image_1 {
+  width: 19.68rem;
+  height: 11.787rem;
+  margin: -0.027rem 0 0 0.08rem;
+}
+
+.box_2 {
+  position: relative;
+  width: 88.64rem;
+  height: 4.72rem;
+}
+
+.text_2 {
+  width: 7.174rem;
+  height: 0.934rem;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 0.96rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 2.8rem 0 0 6.48rem;
+}
+
+.text-wrapper_1 {
+  box-shadow: 0px 3px 0px 0px rgba(248, 75, 24, 1);
+  background-color: rgba(255, 240, 182, 1);
+  border-radius: 40px 40px 0px 0px;
+  height: 2.134rem;
+  width: 5.334rem;
+  position: absolute;
+  left: 14.8rem;
+  top: -0.026rem;
+}
+
+.text_3 {
+  width: 3.734rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 0.96rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 0.614rem 0 0 0.667rem;
+}
+
+.image_2 {
+  width: 16.507rem;
+  height: 16.48rem;
+  margin: -0.027rem 0 0 1.76rem;
+}
+
+.box_3 {
+  background-color: rgba(228, 57, 59, 1);
+  border-radius: 5px;
+  width: 18.454rem;
+  height: 1.6rem;
+  margin: 0.827rem 0 0 0.854rem;
+}
+
+.label_2 {
+  width: 0.8rem;
+  height: 0.694rem;
+  margin: 0.454rem 0 0 1.654rem;
+}
+
+.text_4 {
+  width: 10.32rem;
+  height: 0.934rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.96rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 0.32rem 4.374rem 0 1.307rem;
+}
+
+.image_3 {
+  width: 20rem;
+  height: 199.014rem;
+  margin: 1.147rem 0 2.16rem 0.08rem;
+}

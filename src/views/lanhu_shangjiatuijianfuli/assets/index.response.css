@@ -1,0 +1,50 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100vw;
+  height: 1190.35vw;
+  overflow: hidden;
+}
+
+.group_1 {
+  background-color: rgba(255, 255, 255, 1);
+  height: 1190.35vw;
+  width: 439.69vw;
+}
+
+.box_1 {
+  height: 1178.97vw;
+  background: url(./img/psz0y7azlhl9d4av920125zha2uo46h5hntbf8fbce2-0dd0-40e4-981d-bf10208948cd.png) -0.67vw
+    0vw no-repeat;
+  background-size: 101.05vw 1178.96vw;
+  margin-top: 11.38vw;
+  width: 100vw;
+}
+
+.block_1 {
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.09);
+  background-color: rgba(255, 255, 255, 1);
+  width: 99.21vw;
+  height: 11.38vw;
+  margin-top: -11.37vw;
+}
+
+.label_1 {
+  width: 3.18vw;
+  height: 5.3vw;
+  margin: 2.77vw 0 0 7.27vw;
+}
+
+.text_1 {
+  width: 27.92vw;
+  height: 4.5vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 4.76vw;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 4.77vw;
+  margin: 3.17vw 35.31vw 0 25.52vw;
+}

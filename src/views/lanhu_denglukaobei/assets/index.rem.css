@@ -1,0 +1,318 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 20rem;
+  height: 35.574rem;
+  overflow: hidden;
+}
+
+.group_1 {
+  background-color: rgba(255, 255, 255, 1);
+  height: 35.574rem;
+  width: 65.334rem;
+}
+
+.group_2 {
+  width: 20rem;
+  height: 35.574rem;
+  background: url(./img/ps6e6u7wr0h8lvfjxqpbn7wlggip0b0n92p65fbfb7e-17e6-4722-b753-6143d0906545.png) -0.214rem -1.654rem
+    no-repeat;
+  background-size: 20.56rem 41.12rem;
+}
+
+.text-wrapper_1 {
+  width: 20rem;
+  height: 6.187rem;
+}
+
+.text_1 {
+  width: 4.88rem;
+  height: 1.414rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.92rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.92rem;
+  margin: 2.32rem 0 0 7.547rem;
+}
+
+.section_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 18.4rem;
+  height: 11.707rem;
+  margin: -0.027rem 0 0 0.72rem;
+}
+
+.group_3 {
+  width: 15.387rem;
+  height: 1.68rem;
+}
+
+.text-wrapper_2 {
+  background-color: rgba(255, 171, 174, 1);
+  height: 1.654rem;
+  width: 8.96rem;
+}
+
+.text_2 {
+  width: 2.72rem;
+  height: 0.64rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.693rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  margin: 0.56rem 0 0 3.44rem;
+}
+
+.box_1 {
+  width: 3.414rem;
+  height: 1.12rem;
+  margin-top: 0.56rem;
+}
+
+.text_3 {
+  width: 3.414rem;
+  height: 0.64rem;
+  overflow-wrap: break-word;
+  color: rgba(228, 57, 60, 1);
+  font-size: 0.693rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+}
+
+.section_2 {
+  background-color: rgba(228, 57, 60, 1);
+  width: 1.68rem;
+  height: 0.214rem;
+  margin: 0.267rem 0 0 0.88rem;
+}
+
+.text-wrapper_3 {
+  width: 17.36rem;
+  height: 1.04rem;
+  margin: 0.8rem 0 0 0.614rem;
+}
+
+.text_4 {
+  width: 2.72rem;
+  height: 0.774rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 0, 0, 1);
+  font-size: 1.066rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.067rem;
+}
+
+.text_5 {
+  width: 3.174rem;
+  height: 0.8rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 0, 0, 1);
+  font-size: 0.8rem;
+  font-family: MicrosoftYaHei-Bold;
+  font-weight: 700;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  margin-top: 0.24rem;
+}
+
+.group_4 {
+  width: 17.52rem;
+  height: 1.627rem;
+  border: 1px solid rgba(173, 173, 173, 1);
+  margin: 0.774rem 0 0 0.48rem;
+}
+
+.image-text_1 {
+  width: 1.947rem;
+  height: 0.534rem;
+  margin: 0.56rem 0 0 0.32rem;
+}
+
+.image_1 {
+  width: 0.667rem;
+  height: 0.427rem;
+  margin-top: 0.027rem;
+}
+
+.text-group_1 {
+  width: 1.12rem;
+  height: 0.534rem;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 0.693rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+}
+
+.image_2 {
+  width: 0.027rem;
+  height: 0.96rem;
+  margin: 0.294rem 0 0 0.267rem;
+}
+
+.text_6 {
+  width: 4.774rem;
+  height: 0.64rem;
+  overflow-wrap: break-word;
+  color: rgba(142, 142, 142, 1);
+  font-size: 0.693rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  margin: 0.454rem 9.84rem 0 0.347rem;
+}
+
+.group_5 {
+  width: 17.52rem;
+  height: 1.627rem;
+  border: 1px solid rgba(173, 173, 173, 1);
+  margin: 0.267rem 0 0 0.48rem;
+}
+
+.text_7 {
+  width: 4.08rem;
+  height: 0.667rem;
+  overflow-wrap: break-word;
+  color: rgba(142, 142, 142, 1);
+  font-size: 0.693rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  margin: 0.454rem 0 0 0.774rem;
+}
+
+.text-wrapper_4 {
+  background-color: rgba(255, 171, 174, 1);
+  border-radius: 21px;
+  height: 1.147rem;
+  width: 3.627rem;
+  margin: 0.267rem 0.587rem 0 8.454rem;
+}
+
+.text_8 {
+  width: 3.12rem;
+  height: 0.614rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.64rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.64rem;
+  margin: 0.267rem 0 0 0.214rem;
+}
+
+.group_6 {
+  width: 17.014rem;
+  height: 0.72rem;
+  margin: 0.267rem 0 0 0.72rem;
+}
+
+.text_9 {
+  width: 3.12rem;
+  height: 0.667rem;
+  overflow-wrap: break-word;
+  color: rgba(142, 142, 142, 1);
+  font-size: 0.693rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  margin-top: 0.027rem;
+}
+
+.group_7 {
+  border-radius: 5px;
+  width: 0.72rem;
+  height: 0.72rem;
+  border: 1px solid rgba(142, 142, 142, 1);
+  margin-left: 9.627rem;
+}
+
+.text_10 {
+  width: 3.414rem;
+  height: 0.667rem;
+  overflow-wrap: break-word;
+  color: rgba(142, 142, 142, 1);
+  font-size: 0.693rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  margin: 0.027rem 0 0 0.134rem;
+}
+
+.image-text_2 {
+  width: 11.147rem;
+  height: 1.04rem;
+  margin: 0.774rem 0 1.094rem 0.88rem;
+}
+
+.label_1 {
+  width: 1.2rem;
+  height: 1.04rem;
+}
+
+.text-group_2 {
+  width: 9.84rem;
+  height: 0.534rem;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 0.533rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+  margin-top: 0.347rem;
+}
+
+.text-wrapper_5 {
+  background-color: rgba(228, 57, 59, 1);
+  height: 1.654rem;
+  width: 18.454rem;
+  margin: 0.507rem 0 15.547rem 0.747rem;
+}
+
+.text_11 {
+  width: 1.574rem;
+  height: 0.747rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: MicrosoftYaHei;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  margin: 0.48rem 0 0 8.454rem;
+}
